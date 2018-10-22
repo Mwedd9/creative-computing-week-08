@@ -38,18 +38,13 @@ a {
 .shape {
   margin: 30px;
   width: 200px;  
-  height: 200px;
-  background: navy;
+  height: 100px;
+  background: blue;
 }
 
-.rectangle {
-  width:300px;
-  height:100px;
-
 }
-
 .circle {
-  border-radius:100px;
+  border-radius:50px;
 }
 
 .triangle {
